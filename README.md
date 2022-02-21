@@ -10,7 +10,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 </p>
 
 <p align="center">
- <a href="www.linkedin.com/in/joão-henrique-flores-nunes-972ab5200" target="_blank">
+ <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-flores-nunes-972ab5200/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghaynesh" height="20" width="20" />
   </a>
 </p>
